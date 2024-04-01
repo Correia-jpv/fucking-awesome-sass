@@ -160,6 +160,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - <b><code>&nbsp;&nbsp;3634⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;469🍴</code></b> [scss-lint](https://github.com/brigade/scss-lint)) - Configurable tool for writing clean and consistent SCSS. <b><code>&nbsp;&nbsp;3634⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;469🍴</code></b> [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint))
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;54⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;10🍴</code></b> [SharpScss](https://github.com/xoofx/SharpScss)) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
 - 🌎 [stylelint](stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
+- [scss-to-css](https://js-utils.com/scss-to-css) - Recursively compile all SCSS files into minified CSS.
 
 ## Books
 - 🌎 [Sass in the Real World: Book I of IV](anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/)
