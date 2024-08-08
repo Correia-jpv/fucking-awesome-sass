@@ -36,25 +36,25 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 ## Getting Started
 - [Official Sass and SCSS Guide](http://sass-lang.com/guide) - Official Sass and SCSS guide.
 - [Tutorialzine](http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/) - Learn SASS in 15 minutes tutorial.
-- [Codecademy](https://www.codecademy.com/learn/learn-sass) - Learn Sass with Codecademy.
-- [Lynda](https://www.lynda.com/SASS-training-tutorials/1435-0.html) - Learn how to use Sass, from beginner basics to advanced techniques, with online video tutorials taught by industry experts.
+- 🌎 [Codecademy](www.codecademy.com/learn/learn-sass) - Learn Sass with Codecademy.
+- 🌎 [Lynda](www.lynda.com/SASS-training-tutorials/1435-0.html) - Learn how to use Sass, from beginner basics to advanced techniques, with online video tutorials taught by industry experts.
 - [Official Sass and SCSS Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) - Official Sass and SCSS Documentation Reference.
-- [SitePoint Sass and SCSS Reference](https://www.sitepoint.com/sass-reference/) - SitePoint Sass and SCSS reference.
+- 🌎 [SitePoint Sass and SCSS Reference](www.sitepoint.com/sass-reference/) - SitePoint Sass and SCSS reference.
 
 ## Sass vs SCSS
-- [SitePoint](https://www.sitepoint.com/whats-difference-sass-scss/) - What’s the difference between Sass and SCSS?
+- 🌎 [SitePoint](www.sitepoint.com/whats-difference-sass-scss/) - What’s the difference between Sass and SCSS?
 - [The Sass Way](http://thesassway.com/editorial/sass-vs-scss-which-syntax-is-better) - Which syntax is better?
 - [Stack Overflow](http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass) - What's the difference between SCSS and Sass?
 
 ## Frameworks
-- [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
-- [Bootstrap 4](https://github.com/twbs/bootstrap) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-- [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.
-- [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
-- [Cirrus](https://github.com/Spiderpig86/Cirrus) - A component and utility centric SCSS framework designed for rapid prototyping.
-- [Foundation for Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-- [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
-- [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
+- 🌎 [avalanche](avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
+- <b><code>168497⭐</code></b> <b><code>&nbsp;78576🍴</code></b> [Bootstrap 4](https://github.com/twbs/bootstrap)) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+- <b><code>&nbsp;12596⭐</code></b> <b><code>&nbsp;&nbsp;3530🍴</code></b> [Bootstrap-sass](https://github.com/twbs/bootstrap-sass)) - Official Sass port of Bootstrap 2 and 3.
+- <b><code>&nbsp;49035⭐</code></b> <b><code>&nbsp;&nbsp;3941🍴</code></b> [Bulma](https://github.com/jgthms/bulma)) - Modern CSS framework based on Flexbox.
+- <b><code>&nbsp;&nbsp;1349⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;77🍴</code></b> [Cirrus](https://github.com/Spiderpig86/Cirrus)) - A component and utility centric SCSS framework designed for rapid prototyping.
+- <b><code>&nbsp;29653⭐</code></b> <b><code>&nbsp;&nbsp;5492🍴</code></b> [Foundation for Sites](https://github.com/zurb/foundation-sites)) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+- 🌎 [Hocus-Pocus](bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
+- 🌎 [iotaCSS](www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
 - [Materialize](http://materializecss.com) - Modern responsive front-end framework based on Material Design.
 - [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
@@ -68,116 +68,119 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 - [Griddle](http://necolas.github.io/griddle/) - Extremely flexable CSS grid constructor.
 - [Gridlex](http://gridlex.devlint.fr/) - Flexbox grid system.
-- [Jeet](https://github.com/mojotech/jeet) - Simple fractional grid system for Sass and Stylus.
+- <b><code>&nbsp;&nbsp;2983⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;260🍴</code></b> [Jeet](https://github.com/mojotech/jeet)) - Simple fractional grid system for Sass and Stylus.
 - [Neat](http://neat.bourbon.io/) - Lightweight semantic grid framework built with Sass.
-- [Sass Flexible Grid System](https://dnomak.com/flexiblegs/install/sass/) - Sass flexible grid system.
-- [SCSS Flexible Grid System](https://dnomak.com/flexiblegs/install/scss/) - SCSS flexible grid system.
-- [Susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass.
-- [Toast](http://daneden.github.io/Toast/) - Flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
-- [Waffle Grid](https://lucasgruwez.github.io/waffle-grid/) - Easy to use flexbox grid system.
+- 🌎 [Sass Flexible Grid System](dnomak.com/flexiblegs/install/sass/) - Sass flexible grid system.
+- 🌎 [SCSS Flexible Grid System](dnomak.com/flexiblegs/install/scss/) - SCSS flexible grid system.
+- <b><code>&nbsp;&nbsp;3872⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;347🍴</code></b> [Susy](https://github.com/oddbird/susy)) - Responsive layout toolkit for Sass.
+- [Toast](http://daneden.github.io/Toast/) - Flexible and lightweight grid framework from the creator of 🌎 [animate.css](daneden.github.io/animate.css/).
+- 🌎 [Waffle Grid](lucasgruwez.github.io/waffle-grid/) - Easy to use flexbox grid system.
 
 ### Media Queries
-- [Breakpoint](https://github.com/at-import/breakpoint) - Breakpoint makes writing media queries in Sass super simple.
-- [include-media](https://eduardoboucas.github.io/include-media/) - Simple, elegant and maintainable media queries.
-- [mq-scss](https://github.com/Dan503/mq-scss) - An extreamly powerful but easy to use Sass media query mixin.
+- <b><code>&nbsp;&nbsp;2091⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;142🍴</code></b> [Breakpoint](https://github.com/at-import/breakpoint)) - Breakpoint makes writing media queries in Sass super simple.
+- 🌎 [include-media](eduardoboucas.github.io/include-media/) - Simple, elegant and maintainable media queries.
+- <b><code>&nbsp;&nbsp;&nbsp;125⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8🍴</code></b> [mq-scss](https://github.com/Dan503/mq-scss)) - An extreamly powerful but easy to use Sass media query mixin.
 - [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
-- [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
+- <b><code>&nbsp;&nbsp;1990⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;141🍴</code></b> [Sass MQ](https://github.com/sass-mq/sass-mq)) - Sass mixin that helps you compose media queries in an elegant way.
 
 ### Color
 - [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
-- [Open color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
-- [sass-planifolia](https://github.com/xi/sass-planifolia) - Advanced color manipulation and contrast calculation in vanilla Sass.
-- [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
+- <b><code>&nbsp;&nbsp;5251⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;242🍴</code></b> [Open color](https://github.com/yeun/open-color)) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;40⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [sass-planifolia](https://github.com/xi/sass-planifolia)) - Advanced color manipulation and contrast calculation in vanilla Sass.
+- <b><code>&nbsp;&nbsp;&nbsp;819⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;120🍴</code></b> [scss-blend-modes](https://github.com/heygrady/scss-blend-modes)) - Using standard color blending functions in Sass.
 
 ### Typography
-- [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
-- [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
+- 🌎 [Sassline](sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
+- <b><code>&nbsp;&nbsp;&nbsp;221⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;12🍴</code></b> [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover)) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
 - [Shevy](http://kyleshevlin.github.io/shevy/) - Typography made easy. A vertical rhythm library.
-- [Typi](https://github.com/zellwk/typi) - Sass mixin to make responsive typography easy.
+- <b><code>&nbsp;&nbsp;&nbsp;860⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;43🍴</code></b> [Typi](https://github.com/zellwk/typi)) - Sass mixin to make responsive typography easy.
 
 ### Animation
-- [Animate.scss](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
+- <b><code>&nbsp;&nbsp;&nbsp;664⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;103🍴</code></b> [Animate.scss](https://github.com/geoffgraham/animate.scss)) -  Port of Dan Eden's 🌎 [Animate.css](daneden.github.io/animate.css/) for SASS.
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
-- [Kf](https://kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
-- [Sass Burger](https://github.com/jorenvanhee/sass-burger) - Sass mixin for creating animated hamburger icon.
-- [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - Set of SCSS mixins for single element loaders and spinners.
+- 🌎 [Kf](kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
+- <b><code>&nbsp;&nbsp;&nbsp;654⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;52🍴</code></b> [Sass Burger](https://github.com/jorenvanhee/sass-burger)) - Sass mixin for creating animated hamburger icon.
+- 🌎 [SpinThatShit](matejkustec.github.io/SpinThatShit/) - Set of SCSS mixins for single element loaders and spinners.
 
 ### Miscellaneous
-- [Angled Edges](https://github.com/josephfusco/angled-edges) - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
+- <b><code>&nbsp;&nbsp;&nbsp;965⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;44🍴</code></b> [Angled Edges](https://github.com/josephfusco/angled-edges)) - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
 - [Bourbon](http://bourbon.io/) - Simple and lightweight mixin library for Sass.
-- [Buttono](https://github.com/hsnaydd/buttono) - A flexible Sass mixin for creating BEM-style buttons.
-- [Buttons](https://github.com/alexwolfe/Buttons) - CSS button library built using Sass and Compass.
-- [csstyle](https://csstyle.io) - A SCSS library to help you build modular CSS that generates your selectors for you and deals with specificity automatically.
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;89⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6🍴</code></b> [Buttono](https://github.com/hsnaydd/buttono)) - A flexible Sass mixin for creating BEM-style buttons.
+- <b><code>&nbsp;&nbsp;5041⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;865🍴</code></b> [Buttons](https://github.com/alexwolfe/Buttons)) - CSS button library built using Sass and Compass.
+- 🌎 [csstyle](csstyle.io) - A SCSS library to help you build modular CSS that generates your selectors for you and deals with specificity automatically.
 - [Family.scss](http://lukyvj.github.io/family.scss/) - Set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
-- [Gerillass](https://gerillass.com/) - A Sass mixin library to help you create modern web sites.
+- 🌎 [Gerillass](gerillass.com/) - A Sass mixin library to help you create modern web sites.
 - [Juice](http://kylebrumm.com/juice/) - Collection of Sass mixins and functions.
-- [Modular Scale](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass.
-- [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
-- [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS/CSS library to beautify checkbox and radio buttons.
-- [retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
+- <b><code>&nbsp;&nbsp;1982⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;134🍴</code></b> [Modular Scale](https://github.com/modularscale/modularscale-sass)) - Modular scale calculator built into your Sass.
+- <b><code>&nbsp;&nbsp;1434⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;254🍴</code></b> [normalize-scss](https://github.com/JohnAlbin/normalize-scss)) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
+- <b><code>&nbsp;&nbsp;1805⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;151🍴</code></b> [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox)) -  SCSS/CSS library to beautify checkbox and radio buttons.
+- <b><code>&nbsp;&nbsp;4424⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;615🍴</code></b> [retina.js](https://github.com/imulus/retinajs)) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 - [Sass Accoutrement](http://oddbird.net/open-source/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
-- [Sass Deprecate](https://github.com/salesforce-ux/sass-deprecate) - Sass mixin that helps managing code deprecation.
-- [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
-- [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
-- [Scut](https://github.com/davidtheclark/scut) - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
+- <b><code>&nbsp;&nbsp;&nbsp;271⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [Sass Deprecate](https://github.com/salesforce-ux/sass-deprecate)) - Sass mixin that helps managing code deprecation.
+- <b><code>&nbsp;&nbsp;1120⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;231🍴</code></b> [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin)) - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
+- <b><code>&nbsp;&nbsp;&nbsp;390⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;20🍴</code></b> [Sassdash](https://github.com/davidkpiano/sassdash)) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
+- <b><code>&nbsp;&nbsp;&nbsp;769⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;61🍴</code></b> [Scut](https://github.com/davidtheclark/scut)) - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
 
 ## Style Guides
-- [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
-- [BigCommerce Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) - Guidelines in use at BigCommerce.
-- [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) - Sass and CSS style guide by Airbnb.
-- [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
+- 🌎 [Hugo Giraudel's Sass Guidelines](sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
+- <b><code>&nbsp;&nbsp;&nbsp;282⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;28🍴</code></b> [BigCommerce Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide)) - Guidelines in use at BigCommerce.
+- <b><code>&nbsp;&nbsp;6905⭐</code></b> <b><code>&nbsp;&nbsp;1408🍴</code></b> [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css)) - Sass and CSS style guide by Airbnb.
+- <b><code>&nbsp;&nbsp;1143⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;82🍴</code></b> [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide)) - Dropbox’s (S)CSS authoring style guide.
 
 ## Articles
-- [Hugo Giraudel Personal Awesome Sass List](https://github.com/HugoGiraudel/awesome-sass) - Records of Hugo Giraudel's works on Sass.
+- [Hugo Giraudel Personal Awesome Sass List](https://github.com/correia-jpv/fucking-awesome-sass) - Records of Hugo Giraudel's works on Sass.
 - [Cubic Bézier Representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass)
 - [Faster Sass builds with Webpack](http://eng.localytics.com/faster-sass-builds-with-webpack/)
-- [Transitioning to SCSS at Scale](https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/)
-- [Sass Maps to UI Components](https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt)
+- 🌎 [Transitioning to SCSS at Scale](codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/)
+- 🌎 [Sass Maps to UI Components](blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt)
 - [Inverse trigonometric functions with Sass](http://thesassway.com/advanced/inverse-trigonometric-functions-with-sass)
 - [Stop Arguing So Much with Your Mixins](http://sassbreak.com/stop-arguing-with-your-mixins)
 - [Styling React Components in Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/)
-- [A Sass !default use case](https://robots.thoughtbot.com/sass-default)
-- [Aesthetic Sass 3: Typography and Vertical Rhythm](https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm)
-- [A Tale of CSS and Sass Precision](https://www.sitepoint.com/a-tale-of-css-and-sass-precision/)
-- [Build a Style Guide Straight from Sass](https://css-tricks.com/build-style-guide-straight-sass/)
-- [Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do](https://gist.github.com/jareware/4738651)
-- [The 80-20 Approach to Sustainable SCSS](https://zendev.com/2018/05/30/the-80-20-approach-to-sustainable-scss.html)
-- [Advanced Use of Sass Maps](https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a)
+- 🌎 [A Sass !default use case](robots.thoughtbot.com/sass-default)
+- 🌎 [Aesthetic Sass 3: Typography and Vertical Rhythm](scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm)
+- 🌎 [A Tale of CSS and Sass Precision](www.sitepoint.com/a-tale-of-css-and-sass-precision/)
+- 🌎 [Build a Style Guide Straight from Sass](css-tricks.com/build-style-guide-straight-sass/)
+- 🌎 [Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do](gist.github.com/jareware/4738651)
+- 🌎 [The 80-20 Approach to Sustainable SCSS](zendev.com/2018/05/30/the-80-20-approach-to-sustainable-scss.html)
+- 🌎 [Advanced Use of Sass Maps](itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a)
 
 ## Tools
-- [dart-sass](https://github.com/sass/dart-sass) - Dart implementation of Sass.
-- [diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
-- [libsass-python](https://github.com/dahlia/libsass-python) - Binding of libsass for Python.
-- [libsass](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
-- [node-sass-magic-importer](https://github.com/maoberlehner/node-sass-magic-importer) - Custom node-sass importer for selector specific imports, node importing, module importing, globbing support and importing files only once.
-- [node-sass](https://github.com/sass/node-sass) - Node.js bindings to libsass.
-- [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through *.scss and *.sass files efficiently with the OctoLinker browser extension for GitHub.
-- [sass-extract](https://github.com/jgranstrom/sass-extract) - Extract variables from scss files. Use scss to describe styles for use in javascript by extracting computed styles into js objects. Supports imports and advanced language features.
-- [sass-loader](https://github.com/jtangelder/sass-loader) - Sass loader for webpack.
-- [sass-rails](https://github.com/rails/sass-rails) - Ruby on Rails stylesheet engine for Sass.
+- <b><code>&nbsp;&nbsp;3854⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;351🍴</code></b> [dart-sass](https://github.com/sass/dart-sass)) - Dart implementation of Sass.
+- 🌎 [diamond](diamond.js.org) - Dependency management built for Sass, Less, and CSS.
+- <b><code>&nbsp;&nbsp;&nbsp;557⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;54🍴</code></b> [libsass-python](https://github.com/dahlia/libsass-python)) - Binding of libsass for Python.
+- <b><code>&nbsp;&nbsp;4327⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;462🍴</code></b> [libsass](https://github.com/sass/libsass)) - C/C++ implementation of a Sass compiler.
+- <b><code>&nbsp;&nbsp;&nbsp;292⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;28🍴</code></b> [node-sass-magic-importer](https://github.com/maoberlehner/node-sass-magic-importer)) - Custom node-sass importer for selector specific imports, node importing, module importing, globbing support and importing files only once.
+- <b><code>&nbsp;&nbsp;8498⭐</code></b> <b><code>&nbsp;&nbsp;1326🍴</code></b> [node-sass](https://github.com/sass/node-sass)) - Node.js bindings to libsass.
+- <b><code>&nbsp;&nbsp;5263⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;276🍴</code></b> [OctoLinker](https://github.com/OctoLinker/browser-extension)) - Navigate through *.scss and *.sass files efficiently with the OctoLinker browser extension for GitHub.
+- <b><code>&nbsp;&nbsp;&nbsp;186⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;38🍴</code></b> [sass-extract](https://github.com/jgranstrom/sass-extract)) - Extract variables from scss files. Use scss to describe styles for use in javascript by extracting computed styles into js objects. Supports imports and advanced language features.
+- <b><code>&nbsp;&nbsp;3902⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;426🍴</code></b> [sass-loader](https://github.com/jtangelder/sass-loader)) - Sass loader for webpack.
+- <b><code>&nbsp;&nbsp;&nbsp;860⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;333🍴</code></b> [sass-rails](https://github.com/rails/sass-rails)) - Ruby on Rails stylesheet engine for Sass.
 - [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
 - [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
-- [scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
-- [SharpScss](https://github.com/xoofx/SharpScss) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
-- [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
+- <b><code>&nbsp;&nbsp;3645⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;468🍴</code></b> [scss-lint](https://github.com/brigade/scss-lint)) - Configurable tool for writing clean and consistent SCSS. <b><code>&nbsp;&nbsp;3645⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;468🍴</code></b> [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint))
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;54⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;10🍴</code></b> [SharpScss](https://github.com/xoofx/SharpScss)) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
+- 🌎 [stylelint](stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 
 ## Books
-- [Sass in the Real World: Book I of IV](https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/)
-- [Sass in the Real World: Book II of IV](https://anotheruiguy.gitbooks.io/sass-in-the-real-world-book-2-of-4/content/)
-- [Jump Start Sass: Get Up to Speed With Sass in a Weekend](https://www.amazon.com/Jump-Start-Sass-Speed-Weekend/dp/0994182678)
-- [Sass and Compass for Designers](https://www.amazon.com/Sass-Compass-Designers-Ben-Frain/dp/1849694540)
+- 🌎 [Sass in the Real World: Book I of IV](anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/)
+- 🌎 [Sass in the Real World: Book II of IV](anotheruiguy.gitbooks.io/sass-in-the-real-world-book-2-of-4/content/)
+- 🌎 [Jump Start Sass: Get Up to Speed With Sass in a Weekend](www.amazon.com/Jump-Start-Sass-Speed-Weekend/dp/0994182678)
+- 🌎 [Sass and Compass for Designers](www.amazon.com/Sass-Compass-Designers-Ben-Frain/dp/1849694540)
 
 ## Videos
-- [Sass Tutorial](https://www.youtube.com/watch?v=wz3kElLbEHE)
-- [Series of Sass tutorials showing the installing of, the basics, and using key features](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
-- [Sass or LESS? What should you use?](https://www.youtube.com/watch?v=lJclQekSfSM)
-- [Learn Sass in this Free Crash Course - Give your CSS Superpowers!](https://www.youtube.com/watch?v=roywYSEPSvc)
-- [The Net Ninja Sass playlist](https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)
+- 🌎 [Sass Tutorial](www.youtube.com/watch?v=wz3kElLbEHE)
+- 🌎 [Series of Sass tutorials showing the installing of, the basics, and using key features](www.youtube.com/playlist?list=PL2CB1F80266E986EA)
+- 🌎 [Sass or LESS? What should you use?](www.youtube.com/watch?v=lJclQekSfSM)
+- 🌎 [Learn Sass in this Free Crash Course - Give your CSS Superpowers!](www.youtube.com/watch?v=roywYSEPSvc)
+- 🌎 [The Net Ninja Sass playlist](www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)
 
 ## Community
-- [Reddit](https://www.reddit.com/r/Sass/)
+- 🌎 [Reddit](www.reddit.com/r/Sass/)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/sass)
-- [@SassCSS on Twitter](https://twitter.com/SassCSS)
+- 🌎 [@SassCSS on Twitter](twitter.com/SassCSS)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## Source
+<b><code>&nbsp;&nbsp;1872⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;136🍴</code></b> [Famolus/awesome-sass](https://github.com/Famolus/awesome-sass))
